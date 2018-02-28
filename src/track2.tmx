@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="18" tilewidth="8" tileheight="8" nextobjectid="6">
+ <objectgroup name="Object Layer 1">
+  <object id="5" x="157" y="144">
+   <properties>
+    <property name="Width" type="float" value="60"/>
+   </properties>
+   <polyline points="0,0 157,-11 230,95 149,188 2,110"/>
+  </object>
+ </objectgroup>
+</map>
